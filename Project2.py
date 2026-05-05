@@ -1,3 +1,4 @@
+# Student Score Analyzer
 marks = [78,85,90,67,85,92,78]
 sum = 0
 for item in marks:
