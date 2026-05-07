@@ -1,3 +1,4 @@
+# simple log analyzer
 Logs= ["ERROR DISK FULL",
        "INFO STARTED",
        "ERROR FILE MISSING",
