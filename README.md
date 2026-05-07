@@ -1,9 +1,11 @@
 🐍 Python Practice: The Level-Up Lab
 
 Welcome to my personal Python playground! This repository is a living chronicle of my journey from "Hello World" to building complex, efficient, and (hopefully) bug-free applications.
+
 🎯 The Mission
 
 The goal is simple: Code every day. Whether it's a 5-line script to automate a boring task or a deep dive into Decorators and Generators, it lives here.
+
 🛠️ Tech Stack & Tools
 
     Language: Python 3.12.3
@@ -22,20 +24,32 @@ This repository contains my daily work for the RFT Internship at GOW AI Academy.
 | --------- | ------------------------------ |
 | PROJECT 1 | Data Cleaner (List Processing) |
 | PROJECT 2 | Student Score Analyzer         |
+| PROJECT 3 | Phonebook Manager              |
+| PROJECT 4 | Simple Log Analyzer            |
 
 ## Structure
-```
+```text
 RFTInternship/
 ├── PROJECT 1/
-│   ├── project1.py
-│   └── project1.png
+│   ├── Project1.py
+│   └── Project1.png
 │
 ├── PROJECT 2/
-│   ├── project2.py
-│   └── project2.png
+│   ├── Project2.py
+│   └── Project2.png
+│
+├── PROJECT 3/
+│   ├── Project3.py
+│   └── Project3.png
+│
+├── PROJECT 4/
+│   ├── Project4.py
+│   └── Project4.png
+│
+└── README.md
+```
 
 ---
-```
 Consistently updating this repository as part of my internship journey 
 
 💡 Top Lessons Learned
