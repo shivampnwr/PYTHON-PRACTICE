@@ -1,8 +1,9 @@
 import pandas as pd
 dataset = {
-    "Name" :['A','B','C','D'],
+    "Name" :['A','C','B','D'],
     "Dept" :['IT','HR' ,'IT','HR'],
-    "Salary":[50000,40000,60000,45000]
+    "Salary":[50000,40000,60000,45000],
+    "age" : [70000, 400, 3400, 455]
     
 }
 df = pd.DataFrame(dataset,index=['employee1','employee2','employee3','employee4'])
