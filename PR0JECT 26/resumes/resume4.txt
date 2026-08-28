@@ -1,0 +1,7 @@
+Name: Neha Singh
+
+Skills: Python, Pandas, NumPy, SQL, Matplotlib, Data Visualization
+
+Experience: 2 years
+
+Education: B.Tech Computer Science

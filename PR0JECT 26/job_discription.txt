@@ -1,0 +1,57 @@
+# Job Description – Python Data Analyst
+
+## Position
+
+Python Data Analyst
+
+## Job Summary
+
+We are looking for a motivated Python Data Analyst to join our team. The candidate will be responsible for collecting, cleaning, analyzing, and visualizing data to generate useful business insights.
+
+The ideal candidate should have strong knowledge of Python, data analysis libraries, SQL, data visualization, and basic machine learning concepts.
+
+## Required Skills
+
+* Python
+* Pandas
+* NumPy
+* SQL
+* Machine Learning
+* Matplotlib
+* Power BI
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+
+## Experience
+
+* Minimum 1 year of experience in Python or Data Analysis.
+* Freshers with strong projects and practical knowledge may also be considered.
+
+## Education
+
+* Bachelor's degree in Computer Science, Information Technology, Data Science, Statistics, or a related field.
+
+## Responsibilities
+
+* Collect and clean datasets using Python.
+* Analyze data using Pandas and NumPy.
+* Write SQL queries to retrieve and manipulate data.
+* Create charts and visualizations using Matplotlib.
+* Build dashboards and reports using Power BI.
+* Apply basic machine learning techniques when required.
+* Identify trends and patterns in datasets.
+* Prepare reports and communicate analytical findings to the team.
+
+## Preferred Qualities
+
+* Good problem-solving skills.
+* Strong analytical thinking.
+* Ability to work with large datasets.
+* Good communication skills.
+* Willingness to learn new technologies.
+* Ability to work independently and as part of a team.
+
+## Keywords for Resume Screening
+
+Python, Pandas, NumPy, SQL, Machine Learning, Matplotlib, Power BI, Data Analysis, Data Visualization, Data Cleaning

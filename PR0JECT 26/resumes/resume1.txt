@@ -1,0 +1,7 @@
+Name: Amit Kumar
+
+Skills: Python, SQL, NumPy, Machine Learning, Data Analysis
+
+Experience: 3 years
+
+Education: B.Sc Data Science
