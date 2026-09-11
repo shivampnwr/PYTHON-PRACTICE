@@ -1,0 +1,44 @@
+Invoice_Number,Customer_Name,Invoice_Date,Due_Date,Item_Description,Unit_Price,Quantity
+INV-1001,TechNova,2026-08-08,2026-09-07,Server Hosting,251.3,6
+INV-1001,TechNova,2026-08-08,2026-09-07,Server Hosting,226.86,5
+INV-1002,Stark Enterprises,2026-08-23,2026-09-22,Cloud Storage,310.21,4
+INV-1002,Stark Enterprises,2026-08-23,2026-09-22,Consulting Hours,329.21,8
+INV-1003,Global Industries,2026-09-02,2026-10-02,Consulting Hours,302.13,9
+INV-1003,Global Industries,2026-09-02,2026-10-02,Maintenance Fee,391.05,5
+INV-1003,Global Industries,2026-09-02,2026-10-02,Cloud Storage,123.87,3
+INV-1004,Wayne Tech,2026-07-31,2026-08-30,Software License,315.1,4
+INV-1004,Wayne Tech,2026-07-31,2026-08-30,Maintenance Fee,81.02,6
+INV-1004,Wayne Tech,2026-07-31,2026-08-30,Maintenance Fee,121.52,7
+INV-1005,Wayne Tech,2026-07-14,2026-08-13,Software License,255.18,1
+INV-1005,Wayne Tech,2026-07-14,2026-08-13,Server Hosting,125.81,2
+INV-1006,Acme Corp,2026-09-01,2026-10-01,Cloud Storage,448.05,2
+INV-1007,Stark Enterprises,2026-08-30,2026-09-29,Cloud Storage,195.49,8
+INV-1007,Stark Enterprises,2026-08-30,2026-09-29,Consulting Hours,364.8,9
+INV-1007,Stark Enterprises,2026-08-30,2026-09-29,Consulting Hours,156.37,3
+INV-1008,Global Industries,2026-08-30,2026-09-29,Consulting Hours,317.0,4
+INV-1008,Global Industries,2026-08-30,2026-09-29,Cloud Storage,482.76,4
+INV-1008,Global Industries,2026-08-30,2026-09-29,Software License,366.82,3
+INV-1009,Wayne Tech,2026-08-18,2026-09-17,Consulting Hours,247.19,1
+INV-1009,Wayne Tech,2026-08-18,2026-09-17,Cloud Storage,81.62,4
+INV-1009,Wayne Tech,2026-08-18,2026-09-17,Server Hosting,497.31,9
+INV-1010,Global Industries,2026-08-11,2026-09-10,Server Hosting,486.04,5
+INV-1011,Global Industries,2026-07-22,2026-08-21,Software License,257.0,2
+INV-1012,Global Industries,2026-07-14,2026-08-13,Maintenance Fee,212.74,6
+INV-1012,Global Industries,2026-07-14,2026-08-13,Cloud Storage,345.83,9
+INV-1013,Wayne Tech,2026-09-05,2026-10-05,Cloud Storage,84.23,10
+INV-1013,Wayne Tech,2026-09-05,2026-10-05,Consulting Hours,81.78,2
+INV-1014,TechNova,2026-08-10,2026-09-09,Software License,67.24,1
+INV-1014,TechNova,2026-08-10,2026-09-09,Server Hosting,295.04,8
+INV-1014,TechNova,2026-08-10,2026-09-09,Maintenance Fee,144.77,4
+INV-1015,Wayne Tech,2026-08-11,2026-09-10,Maintenance Fee,474.95,2
+INV-1016,Global Industries,2026-08-13,2026-09-12,Maintenance Fee,439.09,9
+INV-1016,Global Industries,2026-08-13,2026-09-12,Software License,291.62,10
+INV-1016,Global Industries,2026-08-13,2026-09-12,Maintenance Fee,272.35,6
+INV-1017,Acme Corp,2026-08-28,2026-09-27,Software License,176.89,2
+INV-1018,TechNova,2026-08-01,2026-08-31,Consulting Hours,398.35,7
+INV-1018,TechNova,2026-08-01,2026-08-31,Server Hosting,200.99,9
+INV-1018,TechNova,2026-08-01,2026-08-31,Cloud Storage,265.45,2
+INV-1019,Acme Corp,2026-08-04,2026-09-03,Maintenance Fee,498.84,3
+INV-1019,Acme Corp,2026-08-04,2026-09-03,Server Hosting,107.8,3
+INV-1019,Acme Corp,2026-08-04,2026-09-03,Maintenance Fee,453.11,7
+INV-1020,Global Industries,2026-09-02,2026-10-02,Server Hosting,353.53,8
